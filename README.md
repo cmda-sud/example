@@ -1,6 +1,6 @@
 # Example
 
-![Material banner](cmda-sud-material-banner.jpg)
+![Example banner](cmda-sud-example-banner.jpg)
 > Example finished repository after completion.
 
 ## Introduction
